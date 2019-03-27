@@ -5,7 +5,7 @@ date: 2019-03-27T17:33:23.878Z
 draft: false
 description: Advisory App Demo
 ---
-## _**Construction Update**_
+Construction Update
 
 This is only a demo. If this were a real advisory you would see a whole lot more information...
 
