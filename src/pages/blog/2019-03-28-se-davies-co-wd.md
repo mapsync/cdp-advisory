@@ -15,4 +15,4 @@ Please be advised. We will be flushing fire hydrants in the Roberts Road area on
 * blah
 * blah
 
-[See Map of Area](/map?layer=Advisory&feature=6)
+[See Map on Area](/?layer=Advisory&feature=7)
