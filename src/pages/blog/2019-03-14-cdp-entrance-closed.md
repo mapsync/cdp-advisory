@@ -7,10 +7,10 @@ description: Closed for Repairs
 ---
 ![]()
 
-![](/img/android-chrome-192x192.png)
-
 The eastern entrance to CDP's parking lot will be closed for repairs from 4/1/2019 through 4/15/2019. We apologize for any inconvenience this may cause. Thank you for your patience.
 
 [See Map of Location](/map?layer=Advisory&feature=2)
 
 ![](/img/pkglotconst.jpeg "Our new entrance")
+
+![]()
