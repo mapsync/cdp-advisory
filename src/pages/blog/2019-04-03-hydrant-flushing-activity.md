@@ -14,6 +14,6 @@ Please be advised. We will be flushing fire hydrants in the Roberts Road area on
 * blah
 * blah
 
-See Map
+[See Map](/map?layer=Advisory&feature=12)
 
 ![](/img/hydflush.jpeg)
