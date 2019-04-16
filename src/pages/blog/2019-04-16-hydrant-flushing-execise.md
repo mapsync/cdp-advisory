@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Hydrant Flushing Execise
 date: 2019-04-16T10:45:05.435Z
-draft: false
+draft: true
 description: MapSync Village Area
 ---
 In conjunction with the annual fire hydrant flushing program, CDP Utilities and the CDP Fire Department will be flushing hydrants the week of April 15th through April 19th..
@@ -17,4 +17,4 @@ We appreciate your cooperation and apologize for any inconvenience this work may
 
 MapSync Village
 
-[See Map](/?layer=Advisory&feature=11)
+[See Map](/map?layer=Advisory&feature=11)
