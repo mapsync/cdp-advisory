@@ -13,7 +13,7 @@ It is advised that No Washing of Clothes or other water sensitive operations be 
 
 We appreciate your cooperation and apologize for any inconvenience this work may cause. Flushing for the day will occur in the following area(s):
 
-_**MapSync Village Area**_
+**_MapSync Village Area_**
 
 [See Map](/map?layer=Advisory&feature=11)
 
