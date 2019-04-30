@@ -6,6 +6,6 @@ description: MapSync Village Area
 ---
 CDP Boulevard will be closed for repairs from 00/00/2019 through 00/00/2019. Please seek an alternate route during this time. We apologize for any inconvenience this may cause. To see a map of the area, click the link below.
 
-See Map
+[See Map](/map?layer=Advisory&feature=11)
 
 ![](/img/pkglotconst.jpeg)
