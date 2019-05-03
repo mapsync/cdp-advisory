@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Boil Water Advisory
 date: 2019-04-12T11:58:31.143Z
+draft: true
 description: >-
   A boil water advisory is in effect for the MapSync Village area. This is only
   a TEST
