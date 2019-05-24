@@ -9,7 +9,7 @@ logo_url: https://cdp.geosync.cloud/img/logo.png
 
 collections:
   - name: "blog"
-    label: "Alert"
+    label: "Advisory"
     folder: "src/pages/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
