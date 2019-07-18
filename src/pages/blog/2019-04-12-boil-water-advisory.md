@@ -7,6 +7,8 @@ description: >-
   A boil water advisory is in effect for the MapSync Village area. This is only
   a TEST
 ---
+![](/img/boilwater1.jpeg)
+
 A boil water advisory is in effect for the downtown area. This is only a test and not a real incident. If this were a real advisory you would be notified of . . .
 
 1. Blah...
