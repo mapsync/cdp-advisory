@@ -5,6 +5,8 @@ date: 2019-04-16T21:30:05.435Z
 draft: false
 description: MapSync Village Area
 ---
+![](/img/hydflush.jpeg)
+
 In conjunction with the annual fire hydrant flushing program, CDP Utilities and the CDP Fire Department will be flushing hydrants the week of April 15th through April 19th..
 
 CDP Utilities customers in the immediate vicinity of the work may experience temporary discoloration of their water caused by sedimentation being broken loose from the water lines. This discoloration does not affect the safety of the water and should be clear within 2-3 hours of the work being performed.
@@ -16,5 +18,3 @@ We appreciate your cooperation and apologize for any inconvenience this work may
 # MapSync Village Area
 
 [See Map](/map?layer=Advisory&feature=12)
-
-![](/img/hydflush.jpeg)
