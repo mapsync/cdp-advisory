@@ -7,3 +7,5 @@ description: Blazer Parkway
 ![](/img/boilwater1.jpeg)
 
 Boil Water Advisory is in effect.  This is only a test.
+
+[Boil Water Advisory](/map/?layer=Advisory&feature=20)
