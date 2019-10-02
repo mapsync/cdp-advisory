@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Water Replacement Project
 date: 2019-10-02T13:42:40.783Z
-draft: true
+draft: false
 description: Main Street
 ---
 
