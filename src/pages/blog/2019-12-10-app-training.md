@@ -7,3 +7,5 @@ description: Irvine Ky
 ![](/img/tommytentpeg.jpg)
 
 Training to use our new advisory app
+
+[Go to Map](/map/?layer=Advisory&feature=28)
