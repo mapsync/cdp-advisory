@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Boil Water Advisory
+title: Boil Water Advisory 2020
 date: 2020-01-07T12:58:31.143Z
 draft: false
 description: MapSync Village area
