@@ -7,10 +7,8 @@ description: 'Blowling Green, KY'
 ---
 ![](/img/krwamgmt2020.jpg)
 
-
-
 Please drop by and visit us at our booth in the exhibit hall.
 
 CDP-MapSync
 
-See map of conference center
+[See map of conference center](/map?layer=Advisory&feature=30)
