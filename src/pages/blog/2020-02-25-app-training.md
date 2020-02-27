@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: App Training
 date: 2020-02-24T19:21:39.473Z
-draft: true
+draft: false
 description: 'Somerset, KY'
 ---
 ![](/img/boilwater1.jpeg)
